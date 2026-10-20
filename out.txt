@@ -1,0 +1,6 @@
+idle|M {'mean': 1.0, 'sd': 0.0, 'p10': 1.0, 'p90': 1.0, 'final': 1.0, 'days_over45': 0, 'heat_damage': 0, 'days_over55': 0, 'heat_unrecoverable': 0, 'runs_with_heat_damage': 0, 'runs_over45': 0}
+idle|N {'mean': 0.497, 'sd': 0.111, 'p10': 0.362, 'p90': 0.641, 'final': 0.0, 'days_over45': 3287, 'heat_damage': 254, 'days_over55': 541, 'heat_unrecoverable': 26, 'runs_with_heat_damage': 164, 'runs_over45': 182}
+script|M {'mean': 1.0, 'sd': 0.0, 'p10': 1.0, 'p90': 1.0, 'final': 1.0, 'days_over45': 0, 'heat_damage': 0, 'days_over55': 0, 'heat_unrecoverable': 0, 'runs_with_heat_damage': 0, 'runs_over45': 0}
+script|N {'mean': 0.491, 'sd': 0.107, 'p10': 0.367, 'p90': 0.641, 'final': 0.0, 'days_over45': 4519, 'heat_damage': 347, 'days_over55': 1008, 'heat_unrecoverable': 61, 'runs_with_heat_damage': 178, 'runs_over45': 193}
+adaptive|M {'mean': 1.0, 'sd': 0.0, 'p10': 1.0, 'p90': 1.0, 'final': 1.0, 'days_over45': 0, 'heat_damage': 0, 'days_over55': 0, 'heat_unrecoverable': 0, 'runs_with_heat_damage': 0, 'runs_over45': 0}
+adaptive|N {'mean': 0.596, 'sd': 0.111, 'p10': 0.463, 'p90': 0.762, 'final': 0.0, 'days_over45': 6009, 'heat_damage': 474, 'days_over55': 1832, 'heat_unrecoverable': 121, 'runs_with_heat_damage': 192, 'runs_over45': 200}
